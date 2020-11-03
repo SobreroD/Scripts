@@ -1,11 +1,21 @@
-<#
-By: Donovan Sobrero
-Creation Date: 10/31/2020 
-Email: Donovan@networkmechanics.net
 
-
+<#PSScriptInfo
+.VERSION 1.1
+.GUID
+.AUTHOR Donovan M Sobrero
+.COMPANYNAME Networkmechanics.net
+.COPYRIGHT
+.TAGS
+.LICENSEURI
+.PROJECTURI
+.ICONURI
+.EXTERNALMODULEDEPENDENCIES 
+.REQUIREDSCRIPTS
+.EXTERNALSCRIPTDEPENDENCIES
+.RELEASENOTES
+Version 1.0: Initial version.
+.PRIVATEDATA
 #>
-
 $software = "Adobe Acrobat Reader DC"
 $softwarereplace = "Adobe Acrobat Pro DC";
 # https://helpx.adobe.com/enterprise/kb/how-to-determine-which-versions-of-adobe-applications-are-instal.html
